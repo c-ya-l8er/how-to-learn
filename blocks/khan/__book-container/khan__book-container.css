@@ -4,5 +4,6 @@
   display: flex;
   position: relative;
   justify-content: start;
+  align-items: start;
   gap: 48px;
 }

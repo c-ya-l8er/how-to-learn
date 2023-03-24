@@ -1,9 +1,4 @@
 .digits {
-    padding: 0;
-    background-color: white;
-    display: flex;
-    position: relative;
-    flex-direction: column;
-    align-items: center;
-    z-index: 0;
-  } 
+  padding: 0;
+  background-color: white;
+} 

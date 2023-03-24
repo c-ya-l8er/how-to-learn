@@ -1,7 +1,4 @@
 .resources {
   padding: 0;
-  display: flex;
-  position: relative;
-  flex-direction: column;
   background-color: white;
 }
