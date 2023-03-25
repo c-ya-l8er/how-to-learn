@@ -1,6 +1,5 @@
 .video {
-  display: flex;
-  position: relative;
-  flex-direction: column;
+  padding: 0;
+  display: grid;
   background-color: white;
 }
